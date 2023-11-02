@@ -5,7 +5,7 @@ My name is Quoc Bao. I am a university student at Hanoi University of Science an
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/kuokubao) 
 
 
-![Bao's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Bao's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kuokubao&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/kuokubao/Booking_Care">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
